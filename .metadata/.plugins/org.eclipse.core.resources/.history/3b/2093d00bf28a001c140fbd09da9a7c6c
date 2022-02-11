@@ -1,0 +1,12 @@
+package test;
+
+public class test {
+	public static void main(String[] args) {
+	for (int nummber = 1; nummber <= 10; nummber++) {
+		if (nummber%2==0) {
+			System.out.println("For01 = " + nummber);
+		}
+	  }
+	}
+
+}
